@@ -15,7 +15,7 @@ local Players = game:GetService("Players")
  
 StarterGui:SetCore("SendNotification", {
     Title = "Weave Lite";
-    Text = "made by Rust and Shiverr";
+    Text = "made by Ex and Shiverr";
     Duration = 5;
 })
  
